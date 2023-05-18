@@ -1,0 +1,150 @@
+[Root]
+Most Recent Package=Satire
+
+
+[Package|Satire|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Package
+
+[Package|Satire|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Satire|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Satire|Files Found]
+
+[Package|Satire|Files Released]
+
+[Package|Satire|Missing Dependency Information]
+
+[Package|Satire|Out-of-Date Dependency Information]
+
+[Package|Satire|Files Added]
+c:\documents and settings\keith\my documents\documents\english\satire project\game\audience.mid=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\audiencea.bmp=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\audienceb.bmp=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\audiencec.bmp=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\audienced.bmp=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\credits.mid=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\final.mid=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\phone.wav=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\play.mid=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\round1.mid=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\round2.mid=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\round3.mid=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\start.wav=
+c:\documents and settings\keith\my documents\documents\english\satire project\game\theme.mid=
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\QA.txt=
+
+[Package|Satire|Files Removed]
+
+[Package|Satire|Files In Project]
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Who Wants To Hear Some Satire.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Audience.mid=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceA.bmp=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceB.bmp=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceC.bmp=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceD.bmp=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Credits.mid=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Final.mid=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Phone.wav=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Play.mid=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round1.mid=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round2.mid=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round3.mid=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Start.wav=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Theme.mid=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\QA.txt=Yes
+
+[Package|Satire|Configure Registry Files]
+Applicable=No
+
+[Package|Satire|Configure Remote Servers]
+Applicable=No
+
+[Package|Satire|Install Locations]
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Who Wants To Hear Some Satire.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Audience.mid=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceA.bmp=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceB.bmp=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceC.bmp=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceD.bmp=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Credits.mid=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Final.mid=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Phone.wav=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Play.mid=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round1.mid=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round2.mid=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round3.mid=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Start.wav=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Theme.mid=$(AppPath)
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\QA.txt=$(AppPath)
+
+[Package|Satire|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Who Wants To Hear Some Satire.exe=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Audience.mid=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceA.bmp=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceB.bmp=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceC.bmp=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\AudienceD.bmp=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Credits.mid=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Final.mid=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Phone.wav=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Play.mid=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round1.mid=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round2.mid=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Round3.mid=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Start.wav=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Theme.mid=No
+C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\QA.txt=No
+
+[Package|Satire|Distribution]
+Type=single
+Size=
+Title=Who Wants to Hear Some Satire?
+
+[Package|Satire|Package]
+PackageFolder=C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Package
+ProjectFolder=C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game
+ServerSideCab=
+File1=C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Package\setup.exe
+File2=C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Package\Setup.Lst
+File3=C:\Documents and Settings\Keith\My Documents\Documents\English\Satire Project\Game\Package\Who Wants To Hear Some Satire.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Satire|IconGroups]
+Group0=Who Wants to Hear Some Satire
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Satire|Who Wants to Hear Some Satire]
+Icon1="Who Wants To Hear Some Satire.exe"
+Title1=Who Wants to Hear Some Satire
+StartIn1=$(AppPath)
+Key1=Icon1
